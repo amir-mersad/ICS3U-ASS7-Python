@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # Created by: Amir Mersad
-# Created on: November 2019
-# This program rounds numbers
+# Created on: December 2019
+# This program is for assignment 7 ics3u
 
 
 def printing(input_list):
@@ -32,7 +32,7 @@ def main():
         else:
             input_list.append(word)
 
-    # Passing to another funtion
+    # Passing to another function
     result = printing(input_list)
 
     # Output
